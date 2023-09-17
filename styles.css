@@ -10,12 +10,13 @@
     border:0.2px solid;
 	margin: 20px;
 	padding:10px;
+	
 }
-p{
+sup{
 	display:inline;
 	font-size:11px;
+	
  }
-.a{
-	text-align:left;
-	background-color:red;
+sub{
+	text-align:right;
 }
