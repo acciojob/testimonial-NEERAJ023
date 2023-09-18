@@ -12,11 +12,8 @@
 	padding:10px;
 	
 }
-sup{
-	display:inline;
-	font-size:11px;
-	
- }
+
 .author{
 	text-align:right;
+	font-style:italic;
 }
